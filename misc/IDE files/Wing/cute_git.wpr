@@ -17,7 +17,7 @@ proj.directory-list = [{'dirloc': loc('../../..'),
                         'watch_for_changes': True}]
 proj.file-type = 'shared'
 proj.home-dir = loc('../../..')
-proj.main-file = loc('../../../whatevs.py')
+proj.main-file = loc('../../../repo.py')
 proj.shared-attribute-names = ['proj.shared-attribute-names',
                                'proj.directory-list',
                                'proj.file-list',
