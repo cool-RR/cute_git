@@ -1,2 +1,2 @@
 #!bash
-python "`dirname "${BASH_SOURCE[0]}"`/cgm.py" $1 $2 $3 $4 $5
+python2.7 "`dirname "${BASH_SOURCE[0]}"`/cgm.py" $1 $2 $3 $4 $5
